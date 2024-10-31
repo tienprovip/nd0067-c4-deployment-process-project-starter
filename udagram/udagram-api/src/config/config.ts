@@ -19,4 +19,6 @@ export const config = {
   jwt: {
     secret: "tienprovip",
   },
+  AWS_ACCESS_KEY_ID: "ASIAY2TJ7IVJLPBORSHP",
+  AWS_SECRET_ACCESS_KEY: "XAAjj74CnGqekjJG3uD3ab6dXca5hQ3RXkS60xbU"
 };
